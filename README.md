@@ -83,7 +83,7 @@ php artisan vendor:publish --tag=larke-admin-frontend-config
 php artisan vendor:publish --tag=larke-admin-frontend-assets
 ```
 
-运行命令后，你可以在 `public/admin` 下发现前端文件
+运行命令后，你可以在 `public/admin` 下发现前端的文件
 
 你也可以找到 `config/frontend.php` 配置文件
 
